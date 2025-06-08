@@ -1,6 +1,3 @@
-Sure! Below is the complete `README.md` **entirely in markdown** format, no inline explanations — ready to paste into your repo:
-
-```markdown
 # 🧮 Prime Number Checker API
 
 A simple REST API built with **Node.js and Express** that checks whether a given number is prime.
